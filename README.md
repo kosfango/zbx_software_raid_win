@@ -5,3 +5,7 @@ Templates and scripts for monitoring software raid volumes with Zabbix
 - Copy .ps1 to Zabbix script directory
 - Import the template
 - Ajust timeout value in Zabbix agent config
+
+Based on atricle:
+http://www.azsolutions.io/2015/12/15/zabbix-monitoring-raid-windows/
+
